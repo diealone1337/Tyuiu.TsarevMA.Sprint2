@@ -13,7 +13,7 @@ namespace Tyuiu.TsarevMA.Sprint2.Task1.V25
             int d = 857;
 
             bool[] res = new bool[6];
-            res = ds.GetLogicOperations(a, b, c, d);
+            res = ds.GetLogicOperations(a, b, c, d); 
 
             Console.Title = "Спринт #2 | Выполнил: Царев М. А. | СМАРТб-26-1";
             Console.WriteLine("***************************************************************************");
